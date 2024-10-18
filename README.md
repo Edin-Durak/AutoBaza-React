@@ -61,24 +61,4 @@ npm run build
 
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
-## License
 
-[Specify your license here]
-
-## Contact
-
-AutoBaza.ba - [Add contact information]
-
-Project Link: [Add your GitHub repo link]
-```
-
-This README now accurately reflects the content and structure of your project. You may want to add or modify some sections:
-
-1. Add more specific information about the purpose and features of AutoBaza.ba
-2. Include any setup instructions specific to your project
-3. Add information about deployment if you have any
-4. Include any testing procedures if applicable
-5. Add or update the license information
-6. Include contact information and links to the project's social media accounts
-
-Remember to keep your README updated as your project evolves. If you have any specific additions or changes you'd like to make, please let me know!

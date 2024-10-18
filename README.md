@@ -1,8 +1,84 @@
-# React + Vite
+# AutoBaza.ba
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AutoBaza.ba is a React-based web application for effective car buying and selling in Bosnia and Herzegovina. The site is currently under construction and features a countdown to its launch.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built using React and includes:
+
+- A responsive navbar
+- A countdown timer to the site launch
+- Social media links
+- Placeholder content for the upcoming car marketplace
+
+## Technologies Used
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite (inferred from the project structure)
+
+## Project Structure
+
+- `src/main.jsx`: The entry point of the application
+- `src/Navbar.jsx`: Component for the navigation bar
+- `src/Section-one.jsx`: Component containing the countdown and social links
+- `src/Section-two.jsx`: Component with additional content
+- `index.html`: The main HTML file
+- Public directory: Contains images and other static assets
+
+## Getting Started
+
+To get this project running on your local machine:
+
+1. Clone the repository
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Start the development server:
+   ```
+   npm run dev
+   ```
+
+## Building for Production
+
+To create a production build:
+
+```
+npm run build
+```
+
+## Features
+
+- Responsive design with mobile menu
+- Dynamic countdown to site launch
+- Social media integration
+- Placeholder content for upcoming features
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
+
+## License
+
+[Specify your license here]
+
+## Contact
+
+AutoBaza.ba - [Add contact information]
+
+Project Link: [Add your GitHub repo link]
+```
+
+This README now accurately reflects the content and structure of your project. You may want to add or modify some sections:
+
+1. Add more specific information about the purpose and features of AutoBaza.ba
+2. Include any setup instructions specific to your project
+3. Add information about deployment if you have any
+4. Include any testing procedures if applicable
+5. Add or update the license information
+6. Include contact information and links to the project's social media accounts
+
+Remember to keep your README updated as your project evolves. If you have any specific additions or changes you'd like to make, please let me know!
